@@ -1,2 +1,6 @@
 # Desafio-Sense-Data
-Python &amp; Selenium Automation for e-commerce
+Python  Selenium Automation for e-commerce
+Copy chromedriver.exe to C:\
+install python
+pip install selenium
+run desafio.py
